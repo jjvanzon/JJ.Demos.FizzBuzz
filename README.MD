@@ -1,7 +1,7 @@
 JJ.Demos.FizzBuzz
-=======================
+=================
 
-*Jan-Joost van Zon, 2013-08-12*
+*JJ van Zon, 2013-08-12*
 
 Introduction
 ------------
